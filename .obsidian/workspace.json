@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "0d178b19ec0bfc0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3e27a74cb8f7104",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec8ef409f76b0933",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REFS-AULA-0509.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "REFS-AULA-0509"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d0d056904986daf",
+    "type": "split",
+    "children": [
+      {
+        "id": "1529720903d9edd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d7fef968d0856a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "249843b11fb73234",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "91aa19d6707680f4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "88aba40137801efe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Brain/Ciência da Computação/Programação/Algoritmos/5 Matrizes/Matrizes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Matrizes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284.5
+  },
+  "right": {
+    "id": "0184da6528d7cb4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba4d76e725e5cd5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2de3b9831084ebcd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Security/Certification/DCPT/NPP/39 Pentest Web Hacking/27 SQL Injection Error Based.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 27 SQL Injection Error Based"
+            }
+          },
+          {
+            "id": "7e9f4627ec91e9af",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "636ebc1556ab7574",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b29a4da768a57e21",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Brain/Languages/English/Pronunciation/87. Pronunciation Hacks.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 87. Pronunciation Hacks"
+            }
+          },
+          {
+            "id": "7de3bfe2fd12f9f4",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "ec8ef409f76b0933",
+  "lastOpenFiles": [
+    "SenacBCC/README.md",
+    "SenacBCC",
+    "REFS-AULA-0509.md",
+    "Brain/Ciência da Computação/Arquitetura de Computadores/OAC/1 O que são Computadores.md",
+    "Brain/Ciência da Computação/Arquitetura de Computadores/OAC/2 Sistemas Computacionais.md",
+    "Brain/Ciência da Computação/Arquitetura de Computadores/OAC/Untitled",
+    "Brain/Languages/English/Unit 03/19 Immersion Time.md",
+    "Brain/Languages/English/Unit 03/18 Grammar Hacks II.md",
+    "Brain/Languages/English/Unit 03/17 Grammar Hacks I.md",
+    "Brain/Ciência da Computação/Algoritmos/Linguagens/C/Estruturas/Structures.md",
+    "Brain/Ciência da Computação/Arquitetura de Computadores/OAC/1 Introdução.md",
+    "Brain/Ciência da Computação/Arquitetura de Computadores/OAC",
+    "Brain/Languages/English/Unit 03/U03+-+MATERIAL+DE+APOIO.pdf",
+    "Brain/Ciência da Computação/Banco de Dados/1. Introdução.md",
+    "Brain/Matemática/Geometria Analítica/1. Introdução Vetorial.md",
+    "Brain/Languages/English/Unit 03/16 Comprehension Practice.md",
+    "Brain/Languages/English/Unit 02/12 Grammar Hacks (Part II).md",
+    "Brain/Ciência da Computação/Banco de Dados/1.1 O que é um banco de Dados.md",
+    "Pasted image 20250822102301.png",
+    "Brain/Ciência da Computação/Banco de Dados/Untitled.canvas",
+    "Untitled.md",
+    "Brain/Ciência da Computação/Banco de Dados",
+    "Brain/Languages/English/Unit 01/03 Comprehension Practice.md",
+    "Brain/Languages/English/Unit 02",
+    "Brain/Languages/English/ESSENTIALS.pdf",
+    "Brain/Languages/English/Unit 01",
+    "Brain/Languages/English/Unit 03",
+    "Brain/Languages/English/Unit 02/15 Pronunciation Hacks.md",
+    "2008.md",
+    "Brain/Ciência da Computação/Arquitetura de Computadores/OAC",
+    "Brain/Languages/English/Unit 02/13 Immersion Time.md",
+    "Brain/Cultura e Religião/Cristianismo/Catolicismo/Catequese/1. Religião Natural e Religião Sobrenatural.md",
+    "Notas Estudos 1308.md",
+    "Brain/Religião/Catolicismo/Untitled.canvas",
+    "Brain/Matemática/Cálculo/Cálculo 1/Funções.md",
+    "Brain/Ciência da Computação/Matemática/Cálculo/Cálculo 1/Funções.md",
+    "Brain/Languages/English/Unit 02/14 Pronunciation Hacks.md",
+    "Brain/Languages/English/Unit 02/11 Grammar Hacks (Part I).md",
+    "Brain/Ciência da Computação/Algoritmos/Linguagens/C/Ponteiros/Ponteiros.md",
+    "Brain/Source Materials/Image/Pasted image 20250723182111.png",
+    "Brain/Source Materials/Image/Pasted image 20250723182036.png",
+    "Brain/Source Materials/Image/Pasted image 20250723181134.png",
+    "Brain/Source Materials/Image/Pasted image 20250723181044.png",
+    "Brain/Source Materials/Image/Pasted image 20250723180940.png",
+    "Brain/Source Materials/Image/Pasted image 20250723180912.png",
+    "Brain/Ciência da Computação/Programação/Algoritmos/4 Vetores/Untitled.canvas",
+    "images 1.png",
+    "images.png",
+    "Brain/Source Materials/Image/Pasted image 20250715161719.png",
+    "Untitled.canvas",
+    "6 Full Notes/Security/Certification/DCPT/NPP/16 Swiss Army Knife/18.1.1 Port Forwading.canvas"
+  ]
+}
